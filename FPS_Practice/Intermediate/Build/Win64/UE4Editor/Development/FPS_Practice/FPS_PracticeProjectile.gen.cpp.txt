@@ -1,0 +1,5 @@
+C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Development\FPS_Practice\Definitions.FPS_Practice.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Source\FPS_Practice/FPS_PracticeProjectile.h
+C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Inc\FPS_Practice\FPS_PracticeProjectile.generated.h

@@ -1,0 +1,11 @@
+C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Development\FPS_Practice\Definitions.FPS_Practice.h
+C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Source\FPS_Practice\FPS_PracticeProjectile.h
+C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Inc\FPS_Practice\FPS_PracticeProjectile.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h

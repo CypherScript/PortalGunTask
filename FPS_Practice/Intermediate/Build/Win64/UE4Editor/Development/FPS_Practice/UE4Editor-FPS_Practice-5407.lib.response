@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FPS_Practice-5407.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\FPS_PracticeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Development\FPS_Practice\FPS_Practice.cpp.obj"
+"C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Development\FPS_Practice\FPS_PracticeCharacter.cpp.obj"
+"C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Development\FPS_Practice\FPS_PracticeGameMode.cpp.obj"
+"C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Development\FPS_Practice\FPS_PracticeHUD.cpp.obj"
+"C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Development\FPS_Practice\FPS_PracticeProjectile.cpp.obj"
+"C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Development\FPS_Practice\Portal.cpp.obj"
+"C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Development\FPS_Practice\FPS_Practice.init.gen.cpp.obj"
+"C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Development\FPS_Practice\FPS_PracticeCharacter.gen.cpp.obj"
+"C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Development\FPS_Practice\FPS_PracticeGameMode.gen.cpp.obj"
+"C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Development\FPS_Practice\FPS_PracticeHUD.gen.cpp.obj"
+"C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Development\FPS_Practice\FPS_PracticeProjectile.gen.cpp.obj"
+"C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Development\FPS_Practice\Portal.gen.cpp.obj"
+"C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Development\FPS_Practice\Default.rc2.res"
+/OUT:"C:\Users\ericc\OneDrive\Documents\Unreal Projects\FPS_Practice\Intermediate\Build\Win64\UE4Editor\Development\FPS_Practice\UE4Editor-FPS_Practice-5407.lib"
+/INCLUDE:IMPLEMENT_MODULE_FPS_Practice

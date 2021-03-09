@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPS_Practice",
+			"Path": "C:\\Users\\ericc\\OneDrive\\Documents\\Unreal Projects\\FPS_Practice\\Source\\FPS_Practice.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPS_PracticeEditor",
+			"Path": "C:\\Users\\ericc\\OneDrive\\Documents\\Unreal Projects\\FPS_Practice\\Source\\FPS_PracticeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

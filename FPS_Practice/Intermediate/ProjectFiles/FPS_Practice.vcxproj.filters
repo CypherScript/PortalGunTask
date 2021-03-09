@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FPS_Practice.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{967B4D11-7085-4EF6-94F6-FE205FC08458}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPS_Practice.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FPS_PracticeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CCFD92E9-3D08-4B2D-BC5C-87E7CB3FE87C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FPS_Practice">
+      <UniqueIdentifier>{8A6436D7-344A-42BE-98FF-0A2F678B69F1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPS_Practice\FPS_Practice.Build.cs">
+      <Filter>Source\FPS_Practice</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FPS_Practice\FPS_Practice.cpp">
+      <Filter>Source\FPS_Practice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Practice\FPS_Practice.h">
+      <Filter>Source\FPS_Practice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_Practice\FPS_PracticeCharacter.cpp">
+      <Filter>Source\FPS_Practice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Practice\FPS_PracticeCharacter.h">
+      <Filter>Source\FPS_Practice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_Practice\FPS_PracticeGameMode.cpp">
+      <Filter>Source\FPS_Practice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Practice\FPS_PracticeGameMode.h">
+      <Filter>Source\FPS_Practice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_Practice\FPS_PracticeHUD.cpp">
+      <Filter>Source\FPS_Practice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Practice\FPS_PracticeHUD.h">
+      <Filter>Source\FPS_Practice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_Practice\FPS_PracticeProjectile.cpp">
+      <Filter>Source\FPS_Practice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Practice\FPS_PracticeProjectile.h">
+      <Filter>Source\FPS_Practice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_Practice\Portal.cpp">
+      <Filter>Source\FPS_Practice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Practice\Portal.h">
+      <Filter>Source\FPS_Practice</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
